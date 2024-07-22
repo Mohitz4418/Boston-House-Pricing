@@ -34,7 +34,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "libexpat",
   "sha256": "79f612f75108f3e16bbdc127d4885bb74729cf66a8702fca0373dad89d40c4b7",
   "size": 139224,
   "subdir": "win-64",

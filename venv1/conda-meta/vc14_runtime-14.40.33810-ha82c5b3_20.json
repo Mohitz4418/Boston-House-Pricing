@@ -232,7 +232,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "vc14_runtime",
   "sha256": "af3cfa347e3d7c1277e9b964b0849a9a9f095bff61836cb3c3a89862fbc32e17",
   "size": 751934,
   "subdir": "win-64",
